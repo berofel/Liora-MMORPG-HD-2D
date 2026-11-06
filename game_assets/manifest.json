@@ -1,0 +1,27 @@
+{
+  "schema": "liora-asset-manifest-v1",
+  "game": "Liora MMORPG HD-2D",
+  "status": "scaffold",
+  "assetRoots": [
+    "game_assets/characters/",
+    "game_assets/effects/"
+  ],
+  "acceptedFormats": [
+    "png",
+    "json"
+  ],
+  "directions": [
+    "south",
+    "south_east",
+    "east",
+    "north_east",
+    "north",
+    "north_west",
+    "west",
+    "south_west"
+  ],
+  "notes": [
+    "Editor is maintained separately in Berofel HD-2D Studio.",
+    "No generated assets are approved in this initial scaffold."
+  ]
+}
